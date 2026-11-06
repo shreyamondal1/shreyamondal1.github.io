@@ -1,0 +1,165 @@
+{
+  "site": {
+    "name": "Shreya Mondal",
+    "monogram": "SM",
+    "eyebrow": "BUSINESS · DATA · TECHNOLOGY · PRODUCT",
+    "headline": "Hi, I'm Shreya",
+    "focus": "Financial Markets · Quantitative Research",
+    "introduction": "Driven by a belief that continuous learning is one of the most meaningful personal growth challenges one can embrace, my curiosity sits at the intersection of technology and finance. I enjoy acquiring new tools, developing technical skills to bring ideas to life, and exploring how data can help us understand financial markets and build better investment research workflows.",
+    "social": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/shreyamondal1"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/shreyamondal"
+      },
+      {
+        "label": "Email",
+        "url": "mailto:shreyamondal961@gmail.com"
+      }
+    ],
+    "contact_email": "shreyamondal961@gmail.com",
+    "contact_heading": "Have a thoughtful problem to solve?",
+    "contact_copy": "I'm interested in opportunities and conversations around financial data, research, analytics, and technology-driven products."
+  },
+  "navigation": [
+    {
+      "id": "work",
+      "label": "Selected work"
+    },
+    {
+      "id": "approach",
+      "label": "Capabilities"
+    },
+    {
+      "id": "background",
+      "label": "Background"
+    },
+    {
+      "id": "contact",
+      "label": "Contact"
+    }
+  ],
+  "projects": [
+    {
+      "index": "PROJECT / 01",
+      "type": "Predictive analytics",
+      "title": "Audience Demand Prediction System",
+      "description": "Combined booking, theatre, and audience datasets; engineered time-series, lag, rolling, and cyclical features to identify demand patterns. Compared regression models and generated future audience forecasts using Random Forest.",
+      "tags": [
+        "Python",
+        "Pandas",
+        "Scikit-learn",
+        "Forecasting"
+      ],
+      "url": "https://github.com/shreyamondal1/Audience-Demand-Prediction-System",
+      "link_label": "Explore project"
+    },
+    {
+      "index": "PROJECT / 02",
+      "type": "Product engineering",
+      "title": "Campus Placement Management System",
+      "description": "A full-stack placement management application with role-based workflows for students, companies, and administrators. Includes REST APIs, authentication, relational data models, and CRUD workflows.",
+      "tags": [
+        "Flask",
+        "Vue",
+        "SQLAlchemy",
+        "REST API"
+      ],
+      "url": "https://github.com/shreyamondal1/Campus-Placement-Management-System",
+      "link_label": "Explore project"
+    },
+    {
+      "index": "PROJECT / 03",
+      "type": "AI automation",
+      "title": "AI-Powered Code Generation & Deployment",
+      "description": "An automated application generation and deployment pipeline using AI models, FastAPI, and the GitHub API. Generates web applications, creates repositories, deploys to GitHub Pages, and supports iterative updates.",
+      "tags": [
+        "FastAPI",
+        "AI models",
+        "GitHub API",
+        "Automation"
+      ],
+      "url": "https://github.com/shreyamondal1/AI-Powered-Code-Generation-and-Application-Deployment-System",
+      "link_label": "Explore project"
+    },
+    {
+      "index": "CURRENT INTEREST",
+      "type": "Research direction",
+      "title": "Financial data & document intelligence",
+      "description": "Exploring ways to turn complex financial and business information into structured, queryable datasets — combining document extraction, data validation, analytical workflows, and useful interfaces.",
+      "tags": [
+        "Financial research",
+        "Python",
+        "Data pipelines",
+        "NLP"
+      ],
+      "url": "",
+      "link_label": ""
+    }
+  ],
+  "capabilities": {
+    "intro": "I’m interested in building AI-powered B2B software products that automate complex enterprise workflows — especially across financial data and investment research.",
+    "items": [
+      {
+        "number": "01 — UNDERSTAND",
+        "title": "Research & problem framing",
+        "description": "Break down business and analytical questions, understand the underlying data, and translate requirements into a clear problem to solve."
+      },
+      {
+        "number": "02 — ANALYSE",
+        "title": "Data & modelling",
+        "description": "Clean and structure datasets, explore patterns, build analytical workflows, and apply statistical or predictive methods where useful."
+      },
+      {
+        "number": "03 — BUILD",
+        "title": "Tools & implementation",
+        "description": "Translate analytical requirements into usable software: Python workflows, APIs, AI-enabled document and data systems, and interfaces for enterprise teams."
+      }
+    ]
+  },
+  "background": {
+    "intro": "An interdisciplinary foundation across economics, finance, data science, and quantitative finance — applied to financial datasets, investment research, and technology-led problem solving.",
+    "education_experience": [
+      {
+        "date": "2025",
+        "title": "M.Sc. Financial Economics",
+        "detail": "Dr. B. R. Ambedkar School of Economics University, Bengaluru"
+      },
+      {
+        "date": "2023",
+        "title": "B.Sc. Economics",
+        "detail": "Presidency University, Kolkata"
+      },
+      {
+        "date": "In progress",
+        "title": "Diploma in Programming and Data Science",
+        "detail": "Indian Institute of Technology, Madras"
+      },
+      {
+        "date": "Jun–Jul 2024",
+        "title": "Financial Analyst Intern",
+        "detail": "Valutinum Advisory · Financial statement analysis, company performance metrics, and forecasting"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "Flask",
+      "Vue",
+      "Excel",
+      "Power BI",
+      "Git",
+      "Bash",
+      "REST APIs",
+      "Financial modelling",
+      "Forecasting"
+    ]
+  }
+}
